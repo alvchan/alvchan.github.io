@@ -2,4 +2,3 @@
 layout: home
 ---
 
-[About](/about)
