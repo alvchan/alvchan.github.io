@@ -2,4 +2,4 @@
 layout: home
 ---
 
-[About](/about.md)
+[About](/about)
